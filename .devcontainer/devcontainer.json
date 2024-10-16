@@ -6,7 +6,8 @@
         "extensions": [
           "mhutchie.git-graph",
           "bierner.markdown-mermaid",
-          "danish-naglekar.power-platform-extension-pack"
+          "danish-naglekar.power-platform-extension-pack",
+          "ms-vscode.PowerShell"
         ],
         "settings": {
           "terminal.integrated.defaultProfile.windows": "PowerShell"
